@@ -1,5 +1,7 @@
 # Customer Insight Dashboard
 
+https://customer-insightdashboard.streamlit.app/
+
 This Streamlit app helps a company decide which customers to contact first, it combines my models and a text sentiment tool.
 
 ## How to run
