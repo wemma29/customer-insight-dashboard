@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 scipy
-scikit-learn==1.6.1
+scikit-learn
 joblib
 torch
 python_speech_features
