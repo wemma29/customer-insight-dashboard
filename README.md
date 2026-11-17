@@ -31,10 +31,9 @@ Run this from inside the unzipped folder. You don't need any datasets because th
 
 ## Sources
 
-- Churn model: logistic regression from my Assignment 1.
-- Audio model: MFCC features (python_speech_features) into a small PyTorch network, from my Assignment 4.
+- Churn model: logistic regression.
+- Audio model: MFCC features (python_speech_features) into a small PyTorch network.
 - Text sentiment: VADER (`vaderSentiment`, Hutto & Gilbert, 2014), a word-list tool, not a model I trained.
-- App layout follows the Week 11 dashboard tutorial.
 
 ## Notes
 
